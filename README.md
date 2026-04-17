@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kami-rajput/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="kamiiirajputtt@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/kamran-rajput"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/kamran.rajput"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
@@ -64,9 +64,16 @@ Currently expanding into **cloud security**, with focus on AWS and misconfigurat
 
 ## GitHub Stats
 
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamran-rajput&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-rajput&layout=compact&theme=github_dark&hide_border=true" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran-rajput&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kamran-rajput&theme=github-dark&hide_border=true" width="49%"/>
 </p>
 
 ---
